@@ -1,0 +1,8 @@
+numpy 
+pillow 
+matplotlib 
+torchaudio
+pandas
+scikit-learn  
+seaborn
+notebook

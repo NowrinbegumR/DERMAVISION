@@ -1,0 +1,4 @@
+*.pth
+dataset/Skin-Imperfections-9/
+dataset/Skin-Tone-2/
+dataset/skin-type-1/

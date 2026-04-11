@@ -1,0 +1,5 @@
+class_name,image_path,prediction,prediction_confidence,target,output_file
+dark,/media/aejaz/New Volume/Projects/DERMAVISION/dataset/Skin-Tone-2/test/dark/49465535.jpg,dark,0.9255490899085999,dark,/media/aejaz/New Volume/Projects/DERMAVISION/VIT/Skin-Tone-2/cam_outputs_vit_simple/dark/49465535_vit_cam_grid.png
+light,/media/aejaz/New Volume/Projects/DERMAVISION/dataset/Skin-Tone-2/test/light/10024034.jpg,light,0.9274276494979858,light,/media/aejaz/New Volume/Projects/DERMAVISION/VIT/Skin-Tone-2/cam_outputs_vit_simple/light/10024034_vit_cam_grid.png
+mid-dark,/media/aejaz/New Volume/Projects/DERMAVISION/dataset/Skin-Tone-2/test/mid-dark/2321124.jpg,mid-dark,0.9210394620895386,mid-dark,/media/aejaz/New Volume/Projects/DERMAVISION/VIT/Skin-Tone-2/cam_outputs_vit_simple/mid-dark/2321124_vit_cam_grid.png
+mid-light,/media/aejaz/New Volume/Projects/DERMAVISION/dataset/Skin-Tone-2/test/mid-light/100127351.jpg,light,0.5193997025489807,mid-light,/media/aejaz/New Volume/Projects/DERMAVISION/VIT/Skin-Tone-2/cam_outputs_vit_simple/mid-light/100127351_vit_cam_grid.png

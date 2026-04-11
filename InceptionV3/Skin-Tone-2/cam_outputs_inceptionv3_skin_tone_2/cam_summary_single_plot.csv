@@ -1,0 +1,5 @@
+class_name,image_path,prediction,prediction_confidence,target_index
+dark,/media/aejaz/New Volume/Projects/DERMAVISION/dataset/Skin-Tone-2/test/dark/49465535.jpg,dark,0.7573729753494263,0
+light,/media/aejaz/New Volume/Projects/DERMAVISION/dataset/Skin-Tone-2/test/light/10024034.jpg,light,0.8954494595527649,1
+mid-dark,/media/aejaz/New Volume/Projects/DERMAVISION/dataset/Skin-Tone-2/test/mid-dark/2321124.jpg,mid-dark,0.428934246301651,2
+mid-light,/media/aejaz/New Volume/Projects/DERMAVISION/dataset/Skin-Tone-2/test/mid-light/100127351.jpg,light,0.6184905171394348,3
