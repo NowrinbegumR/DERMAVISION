@@ -1,0 +1,1831 @@
+[
+  {
+    "id": "SC001",
+    "skin_condition": "Acne",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "overview": "Acne is a common inflammatory skin condition caused by clogged pores, excess sebum production, bacteria, and hormonal changes.",
+    "causes": [
+      "Excess sebum production",
+      "Clogged pores",
+      "Hormonal imbalance",
+      "Cutibacterium acnes bacteria",
+      "Genetics",
+      "Stress"
+    ],
+    "symptoms": [
+      "Red inflamed pimples",
+      "Whiteheads",
+      "Blackheads",
+      "Painful bumps"
+    ],
+    "recommended_ingredients": [
+      "Salicylic Acid",
+      "Niacinamide",
+      "Benzoyl Peroxide",
+      "Azelaic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy oils",
+      "Comedogenic ingredients"
+    ],
+    "recommended_products": [
+      "Foaming Cleanser",
+      "Acne Treatment Serum",
+      "Oil-Free Moisturizer",
+      "Broad-Spectrum Sunscreen"
+    ],
+    "safety_guidance": [
+      "Picking pimples",
+      "Touching the face frequently",
+      "Over-exfoliating"
+    ],
+    "expected_results": "6-8 weeks",
+    "disclaimer": "Consult a dermatologist for severe or persistent acne."
+  },
+  {
+    "id": "SC002",
+    "skin_condition": "Blackheads",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "overview": "Blackheads are open clogged pores filled with oil and dead skin cells that oxidize when exposed to air.",
+    "causes": [
+      "Excess oil production",
+      "Dead skin cell buildup",
+      "Clogged pores",
+      "Hormonal changes"
+    ],
+    "symptoms": [
+      "Small black dots",
+      "Visible pores",
+      "Oily nose",
+      "Rough texture"
+    ],
+    "recommended_ingredients": [
+      "Salicylic Acid",
+      "Niacinamide",
+      "Retinol"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy creams",
+      "Comedogenic oils"
+    ],
+    "recommended_products": [
+      "Gel Cleanser",
+      "Clay Mask",
+      "Chemical Exfoliant"
+    ],
+    "safety_guidance": [
+      "Squeezing blackheads",
+      "Over-exfoliating"
+    ],
+    "expected_results": "4-6 weeks",
+    "disclaimer": "Avoid excessive exfoliation to protect the skin barrier."
+  },
+  {
+    "id": "SC012",
+    "skin_condition": "Dark Circles",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Dark circles appear as discoloration under the eyes and may result from genetics, lack of sleep, aging, dehydration, or pigmentation.",
+    "causes": [
+      "Lack of sleep",
+      "Genetics",
+      "Aging",
+      "Dehydration",
+      "Sun exposure"
+    ],
+    "symptoms": [
+      "Dark under-eye pigmentation",
+      "Tired appearance",
+      "Uneven under-eye tone"
+    ],
+    "recommended_ingredients": [
+      "Vitamin C",
+      "Caffeine",
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Peptides"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh exfoliants near the eye area"
+    ],
+    "recommended_products": [
+      "Eye Cream",
+      "Hydrating Serum",
+      "Sunscreen"
+    ],
+    "skincare_routine": {
+      "morning": [
+        "Gentle Cleanser",
+        "Eye Cream",
+        "Moisturizer",
+        "Sunscreen"
+      ],
+      "night": [
+        "Gentle Cleanser",
+        "Hydrating Eye Cream"
+      ]
+    },
+    "safety_guidance": [
+      "Rubbing the eyes",
+      "Lack of sleep",
+      "Skipping sunscreen"
+    ],
+    "expected_results": "6-12 weeks",
+    "disclaimer": "Dark circles caused by genetics or certain medical conditions may not fully improve with skincare alone."
+  },
+  {
+    "id": "SC010",
+    "skin_condition": "Dehydrated Skin",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Dehydrated skin is a temporary condition caused by insufficient water content in the skin, resulting in dullness and tightness.",
+    "causes": [
+      "Insufficient water intake",
+      "Environmental factors",
+      "Over-exfoliation",
+      "Use of harsh skincare products"
+    ],
+    "symptoms": [
+      "Dull appearance",
+      "Tightness",
+      "Fine dehydration lines",
+      "Rough texture"
+    ],
+    "recommended_ingredients": [
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Panthenol",
+      "Ceramides"
+    ],
+    "ingredients_to_avoid": [
+      "Strong alcohol-based toners",
+      "Harsh exfoliants"
+    ],
+    "recommended_products": [
+      "Hydrating Serum",
+      "Moisturizer",
+      "Gentle Cleanser"
+    ],
+    "skincare_routine": {
+      "morning": [
+        "Gentle Cleanser",
+        "Hydrating Serum",
+        "Moisturizer",
+        "Sunscreen"
+      ],
+      "night": [
+        "Gentle Cleanser",
+        "Hydrating Serum",
+        "Barrier Cream"
+      ]
+    },
+    "safety_guidance": [
+      "Over-cleansing",
+      "Using very hot water",
+      "Skipping moisturizer"
+    ],
+    "expected_results": "1–3 weeks",
+    "disclaimer": "If dehydration persists despite proper skincare and hydration, seek advice from a healthcare professional."
+  },
+  {
+    "id": "SC003",
+    "skin_condition": "Dry Skin",
+    "skin_types": [
+      "Dry"
+    ],
+    "overview": "Dry skin occurs when the skin lacks moisture and natural oils, resulting in tightness and flaking.",
+    "causes": [
+      "Cold weather",
+      "Hot showers",
+      "Harsh cleansers",
+      "Aging"
+    ],
+    "symptoms": [
+      "Flaking",
+      "Tightness",
+      "Itching",
+      "Rough patches"
+    ],
+    "recommended_ingredients": [
+      "Ceramides",
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Squalane"
+    ],
+    "ingredients_to_avoid": [
+      "Alcohol-based products",
+      "Strong sulfates"
+    ],
+    "recommended_products": [
+      "Hydrating Cleanser",
+      "Moisturizer",
+      "Barrier Repair Cream"
+    ],
+    "safety_guidance": [
+      "Hot showers",
+      "Over-cleansing",
+      "Skipping moisturizer"
+    ],
+    "expected_results": "2-4 weeks",
+    "disclaimer": "Persistent severe dryness should be evaluated by a healthcare professional."
+  },
+  {
+    "id": "SC014",
+    "skin_condition": "Dull Skin",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Dull skin appears tired and lacks radiance due to dehydration, dead skin buildup, environmental damage, or insufficient skincare.",
+    "causes": [
+      "Dead skin cell buildup",
+      "Dehydration",
+      "Lack of sleep",
+      "Sun damage",
+      "Pollution"
+    ],
+    "symptoms": [
+      "Lack of glow",
+      "Uneven texture",
+      "Tired appearance"
+    ],
+    "recommended_ingredients": [
+      "Vitamin C",
+      "Niacinamide",
+      "Alpha Hydroxy Acids",
+      "Hyaluronic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Overuse of harsh exfoliants"
+    ],
+    "recommended_products": [
+      "Brightening Serum",
+      "Gentle Exfoliant",
+      "Moisturizer",
+      "Sunscreen"
+    ],
+    "skincare_routine": {
+      "morning": [
+        "Gentle Cleanser",
+        "Vitamin C Serum",
+        "Moisturizer",
+        "Sunscreen"
+      ],
+      "night": [
+        "Gentle Cleanser",
+        "AHA Exfoliant (2-3 times/week)",
+        "Moisturizer"
+      ]
+    },
+    "safety_guidance": [
+      "Skipping moisturizer",
+      "Smoking",
+      "Poor sleep"
+    ],
+    "expected_results": "4-8 weeks",
+    "disclaimer": "Healthy lifestyle habits can significantly improve overall skin radiance."
+  },
+  {
+    "id": "SC006",
+    "skin_condition": "Fine Lines",
+    "skin_types": [
+      "Dry",
+      "Normal",
+      "Mature"
+    ],
+    "overview": "Fine lines are shallow facial lines that develop due to aging, dehydration, repetitive facial expressions, and reduced collagen production.",
+    "causes": [
+      "Natural aging",
+      "Dehydration",
+      "Sun exposure",
+      "Loss of collagen",
+      "Smoking"
+    ],
+    "symptoms": [
+      "Small facial lines",
+      "Crow's feet",
+      "Forehead lines",
+      "Reduced skin smoothness"
+    ],
+    "recommended_ingredients": [
+      "Retinol",
+      "Hyaluronic Acid",
+      "Peptides",
+      "Vitamin C",
+      "Ceramides"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh scrubs",
+      "High alcohol products"
+    ],
+    "recommended_products": [
+      "Anti-Aging Serum",
+      "Hydrating Moisturizer",
+      "Vitamin C Serum",
+      "Broad-Spectrum Sunscreen"
+    ],
+    "skincare_routine": {
+      "morning": [
+        "Gentle Cleanser",
+        "Vitamin C Serum",
+        "Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night": [
+        "Gentle Cleanser",
+        "Retinol Serum",
+        "Moisturizer"
+      ]
+    },
+    "safety_guidance": [
+      "Smoking",
+      "Skipping sunscreen",
+      "Over-exfoliation"
+    ],
+    "expected_results": "2–4 months",
+    "disclaimer": "Fine lines are a natural part of aging. Consistent skincare can improve their appearance."
+  },
+  {
+    "id": "SC004",
+    "skin_condition": "Hyperpigmentation",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Hyperpigmentation is caused by excess melanin production, leading to dark patches on the skin.",
+    "causes": [
+      "Sun exposure",
+      "Acne",
+      "Hormonal changes",
+      "Skin inflammation"
+    ],
+    "symptoms": [
+      "Dark spots",
+      "Brown patches",
+      "Uneven skin tone"
+    ],
+    "recommended_ingredients": [
+      "Vitamin C",
+      "Niacinamide",
+      "Alpha Arbutin",
+      "Tranexamic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh scrubs",
+      "Irritating products"
+    ],
+    "recommended_products": [
+      "Brightening Serum",
+      "Moisturizer",
+      "Sunscreen"
+    ],
+    "safety_guidance": [
+      "Sun exposure without sunscreen",
+      "Picking acne lesions"
+    ],
+    "expected_results": "8-12 weeks",
+    "disclaimer": "Use sunscreen daily for best results."
+  },
+  {
+    "id": "SC008",
+    "skin_condition": "Melasma",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Melasma is a pigmentation disorder characterized by symmetrical brown or gray patches, commonly triggered by hormonal changes and sun exposure.",
+    "causes": [
+      "Pregnancy",
+      "Hormonal changes",
+      "Sun exposure",
+      "Genetics"
+    ],
+    "symptoms": [
+      "Brown facial patches",
+      "Uneven pigmentation",
+      "Symmetrical discoloration"
+    ],
+    "recommended_ingredients": [
+      "Tranexamic Acid",
+      "Vitamin C",
+      "Niacinamide",
+      "Azelaic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh chemical peels",
+      "Excessive exfoliation"
+    ],
+    "recommended_products": [
+      "Brightening Serum",
+      "Moisturizer",
+      "Broad-Spectrum Sunscreen"
+    ],
+    "skincare_routine": {
+      "morning": [
+        "Vitamin C Serum",
+        "Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night": [
+        "Tranexamic Acid Serum",
+        "Moisturizer"
+      ]
+    },
+    "safety_guidance": [
+      "Direct sunlight",
+      "Skipping sunscreen"
+    ],
+    "expected_results": "3–6 months",
+    "disclaimer": "Melasma often requires long-term management. Consult a dermatologist for persistent pigmentation."
+  },
+  {
+    "id": "SC013",
+    "skin_condition": "Redness",
+    "skin_types": [
+      "Sensitive",
+      "Dry"
+    ],
+    "overview": "Skin redness is often caused by irritation, inflammation, environmental factors, or a weakened skin barrier.",
+    "causes": [
+      "Sensitive skin",
+      "Allergic reactions",
+      "Sun exposure",
+      "Harsh skincare products",
+      "Environmental factors"
+    ],
+    "symptoms": [
+      "Red patches",
+      "Burning sensation",
+      "Skin irritation",
+      "Warm feeling on the skin"
+    ],
+    "recommended_ingredients": [
+      "Centella Asiatica",
+      "Ceramides",
+      "Panthenol",
+      "Niacinamide",
+      "Aloe Vera"
+    ],
+    "ingredients_to_avoid": [
+      "Strong acids",
+      "Alcohol-based products",
+      "Fragranced skincare"
+    ],
+    "recommended_products": [
+      "Gentle Cleanser",
+      "Barrier Repair Cream",
+      "Moisturizer",
+      "Mineral Sunscreen"
+    ],
+    "skincare_routine": {
+      "morning": [
+        "Gentle Cleanser",
+        "Barrier Repair Cream",
+        "Mineral Sunscreen"
+      ],
+      "night": [
+        "Gentle Cleanser",
+        "Moisturizer"
+      ]
+    },
+    "safety_guidance": [
+      "Hot water",
+      "Over-exfoliation",
+      "Using too many active ingredients"
+    ],
+    "expected_results": "2-6 weeks",
+    "disclaimer": "Persistent redness may indicate an underlying skin condition and should be evaluated by a dermatologist."
+  },
+  {
+    "id": "SC015",
+    "skin_condition": "Acne Scars",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Acne scars develop when deeper acne lesions damage the skin and heal with altered collagen production.",
+    "causes": [
+      "Severe acne",
+      "Picking pimples",
+      "Delayed acne treatment"
+    ],
+    "symptoms": [
+      "Indented scars",
+      "Raised scars",
+      "Uneven skin texture"
+    ],
+    "recommended_ingredients": [
+      "Retinol",
+      "Vitamin C",
+      "Niacinamide",
+      "Peptides"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh scrubs",
+      "Picking healing acne"
+    ],
+    "recommended_products": [
+      "Retinol Serum",
+      "Vitamin C Serum",
+      "Moisturizer",
+      "Sunscreen"
+    ],
+    "skincare_routine": {
+      "morning": [
+        "Gentle Cleanser",
+        "Vitamin C Serum",
+        "Moisturizer",
+        "Sunscreen"
+      ],
+      "night": [
+        "Gentle Cleanser",
+        "Retinol Serum",
+        "Moisturizer"
+      ]
+    },
+    "safety_guidance": [
+      "Picking acne",
+      "Skipping sunscreen"
+    ],
+    "expected_results": "3-6 months",
+    "disclaimer": "Deep acne scars often require professional treatments such as microneedling or laser therapy."
+  },
+  {
+    "id": "SC016",
+    "skin_condition": "White Spots",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "White spots are lighter areas of skin that can occur due to reduced pigmentation, previous inflammation, fungal infections, or other skin conditions.",
+    "causes": [
+      "Post-inflammatory hypopigmentation",
+      "Sun exposure",
+      "Dry skin",
+      "Certain fungal infections"
+    ],
+    "symptoms": [
+      "Small light-colored patches",
+      "Uneven pigmentation",
+      "Smooth skin texture"
+    ],
+    "recommended_ingredients": [
+      "Ceramides",
+      "Niacinamide",
+      "Hyaluronic Acid",
+      "Vitamin E"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh exfoliants",
+      "Strong chemical peels"
+    ],
+    "recommended_products": [
+      "Gentle Cleanser",
+      "Barrier Repair Cream",
+      "Moisturizer",
+      "Broad-Spectrum Sunscreen"
+    ],
+    "skincare_routine": {
+      "morning": [
+        "Gentle Cleanser",
+        "Moisturizer",
+        "Sunscreen"
+      ],
+      "night": [
+        "Gentle Cleanser",
+        "Barrier Repair Cream"
+      ]
+    },
+    "safety_guidance": [
+      "Excessive sun exposure",
+      "Scratching affected areas"
+    ],
+    "expected_results": "Varies depending on the underlying cause.",
+    "disclaimer": "White spots may be caused by different conditions. A dermatologist should evaluate persistent, spreading, or unexplained white patches for an accurate diagnosis."
+  },
+  {
+    "id": "SC011",
+    "skin_condition": "Whiteheads",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "overview": "Whiteheads are closed clogged pores formed when excess sebum, dead skin cells, and bacteria become trapped beneath the skin's surface.",
+    "causes": [
+      "Excess sebum production",
+      "Clogged pores",
+      "Hormonal changes",
+      "Dead skin cell buildup"
+    ],
+    "symptoms": [
+      "Small white bumps",
+      "Smooth raised spots",
+      "Oily skin",
+      "Congested pores"
+    ],
+    "recommended_ingredients": [
+      "Salicylic Acid",
+      "Niacinamide",
+      "Retinol",
+      "Azelaic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy oils",
+      "Comedogenic products"
+    ],
+    "recommended_products": [
+      "Foaming Cleanser",
+      "Exfoliating Serum",
+      "Oil-Free Moisturizer",
+      "Sunscreen"
+    ],
+    "skincare_routine": {
+      "morning": [
+        "Foaming Cleanser",
+        "Niacinamide Serum",
+        "Moisturizer",
+        "Sunscreen"
+      ],
+      "night": [
+        "Foaming Cleanser",
+        "Salicylic Acid Serum",
+        "Moisturizer"
+      ]
+    },
+    "safety_guidance": [
+      "Picking whiteheads",
+      "Over-exfoliating",
+      "Sleeping with makeup"
+    ],
+    "expected_results": "4-8 weeks",
+    "disclaimer": "Persistent or severe whiteheads may require professional dermatological treatment."
+  },
+  {
+    "id": "SC005",
+    "skin_condition": "Wrinkles",
+    "skin_types": [
+      "Dry",
+      "Normal",
+      "Mature"
+    ],
+    "overview": "Wrinkles develop due to aging, collagen loss, repeated facial movements, and UV exposure.",
+    "causes": [
+      "Aging",
+      "Sun damage",
+      "Collagen loss",
+      "Smoking"
+    ],
+    "symptoms": [
+      "Fine lines",
+      "Deep wrinkles",
+      "Sagging skin"
+    ],
+    "recommended_ingredients": [
+      "Retinol",
+      "Peptides",
+      "Vitamin C",
+      "Ceramides"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh scrubs",
+      "Drying alcohol products"
+    ],
+    "recommended_products": [
+      "Retinol Serum",
+      "Vitamin C Serum",
+      "Moisturizer",
+      "Sunscreen"
+    ],
+    "safety_guidance": [
+      "Skipping sunscreen",
+      "Smoking",
+      "Excessive sun exposure"
+    ],
+    "expected_results": "3-6 months",
+    "disclaimer": "Wrinkles are a natural part of aging and cannot be completely removed."
+  },
+  {
+    "id": "SC017",
+    "skin_condition": "Oily Skin",
+    "skin_types": [
+      "Oily"
+    ],
+    "overview": "Oily skin produces excess sebum, resulting in a shiny appearance and an increased tendency for clogged pores and acne.",
+    "causes": [
+      "Genetics",
+      "Hormonal changes",
+      "Hot and humid weather",
+      "Over-cleansing"
+    ],
+    "symptoms": [
+      "Shiny skin",
+      "Visible pores",
+      "Frequent breakouts",
+      "Greasy appearance"
+    ],
+    "recommended_ingredients": [
+      "Niacinamide",
+      "Salicylic Acid",
+      "Zinc PCA",
+      "Green Tea Extract"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy oils",
+      "Comedogenic ingredients"
+    ],
+    "recommended_products": [
+      "Foaming Cleanser",
+      "Oil-Free Moisturizer",
+      "Niacinamide Serum",
+      "Gel Sunscreen"
+    ],
+    "safety_guidance": [
+      "Overwashing the face",
+      "Heavy cream moisturizers",
+      "Touching the face frequently"
+    ],
+    "expected_results": "4-8 weeks",
+    "disclaimer": "Excess oil production varies between individuals and may require professional advice if severe."
+  },
+  {
+    "id": "SC018",
+    "skin_condition": "Sensitive Skin",
+    "skin_types": [
+      "Sensitive"
+    ],
+    "overview": "Sensitive skin reacts easily to environmental factors and skincare products, leading to irritation and discomfort.",
+    "causes": [
+      "Weak skin barrier",
+      "Allergies",
+      "Harsh skincare products",
+      "Environmental changes"
+    ],
+    "symptoms": [
+      "Burning sensation",
+      "Stinging",
+      "Itching",
+      "Redness"
+    ],
+    "recommended_ingredients": [
+      "Ceramides",
+      "Panthenol",
+      "Centella Asiatica",
+      "Aloe Vera"
+    ],
+    "ingredients_to_avoid": [
+      "Fragrances",
+      "Alcohol",
+      "Strong acids"
+    ],
+    "recommended_products": [
+      "Gentle Cleanser",
+      "Barrier Repair Cream",
+      "Mineral Sunscreen"
+    ],
+    "safety_guidance": [
+      "Trying multiple new products at once",
+      "Hot water",
+      "Harsh scrubbing"
+    ],
+    "expected_results": "2-6 weeks",
+    "disclaimer": "Persistent irritation or allergic reactions should be evaluated by a dermatologist."
+  },
+  {
+    "id": "SC019",
+    "skin_condition": "Enlarged Pores",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "overview": "Enlarged pores become more noticeable due to excess oil production, aging, and loss of skin elasticity.",
+    "causes": [
+      "Excess sebum",
+      "Aging",
+      "Sun damage",
+      "Genetics"
+    ],
+    "symptoms": [
+      "Visible pores",
+      "Uneven skin texture",
+      "Oily T-zone"
+    ],
+    "recommended_ingredients": [
+      "Niacinamide",
+      "Salicylic Acid",
+      "Retinol"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy oils"
+    ],
+    "recommended_products": [
+      "Foaming Cleanser",
+      "Niacinamide Serum",
+      "Oil-Free Moisturizer",
+      "Clay Mask"
+    ],
+    "safety_guidance": [
+      "Sleeping with makeup",
+      "Skipping cleansing"
+    ],
+    "expected_results": "6-10 weeks",
+    "disclaimer": "Pore size cannot be permanently reduced, but their appearance can be minimized."
+  },
+  {
+    "id": "SC020",
+    "skin_condition": "Uneven Skin Tone",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Uneven skin tone occurs when certain areas of the skin appear darker or lighter than others due to pigmentation or sun exposure.",
+    "causes": [
+      "Sun exposure",
+      "Acne marks",
+      "Hormonal changes",
+      "Inflammation"
+    ],
+    "symptoms": [
+      "Patchy complexion",
+      "Dark areas",
+      "Uneven pigmentation"
+    ],
+    "recommended_ingredients": [
+      "Vitamin C",
+      "Niacinamide",
+      "Alpha Arbutin",
+      "Tranexamic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh scrubs"
+    ],
+    "recommended_products": [
+      "Brightening Serum",
+      "Moisturizer",
+      "Broad-Spectrum Sunscreen"
+    ],
+    "safety_guidance": [
+      "Sun exposure without sunscreen",
+      "Picking blemishes"
+    ],
+    "expected_results": "8-12 weeks",
+    "disclaimer": "Consistent sunscreen use is essential for improving uneven skin tone."
+  },
+  {
+    "id": "SC021",
+    "skin_condition": "Clogged Pores",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "overview": "Clogged pores occur when oil, dead skin cells, and debris block the hair follicles.",
+    "causes": [
+      "Excess oil production",
+      "Dead skin buildup",
+      "Comedogenic cosmetics",
+      "Poor cleansing"
+    ],
+    "symptoms": [
+      "Small bumps",
+      "Blackheads",
+      "Whiteheads",
+      "Rough skin"
+    ],
+    "recommended_ingredients": [
+      "Salicylic Acid",
+      "Niacinamide",
+      "Retinol"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy oils",
+      "Occlusive products"
+    ],
+    "recommended_products": [
+      "Foaming Cleanser",
+      "Chemical Exfoliant",
+      "Oil-Free Moisturizer"
+    ],
+    "safety_guidance": [
+      "Sleeping with makeup",
+      "Touching the face"
+    ],
+    "expected_results": "4-8 weeks",
+    "disclaimer": "Persistent clogged pores may require professional extraction."
+  },
+  {
+    "id": "SC022",
+    "skin_condition": "Rough Skin Texture",
+    "skin_types": [
+      "Dry",
+      "Combination"
+    ],
+    "overview": "Rough skin texture results from dead skin buildup, dehydration, or reduced skin cell turnover.",
+    "causes": [
+      "Dead skin accumulation",
+      "Dry skin",
+      "Sun damage",
+      "Aging"
+    ],
+    "symptoms": [
+      "Uneven skin texture",
+      "Dry patches",
+      "Lack of smoothness"
+    ],
+    "recommended_ingredients": [
+      "Lactic Acid",
+      "Glycolic Acid",
+      "Ceramides",
+      "Hyaluronic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh physical scrubs"
+    ],
+    "recommended_products": [
+      "Gentle Exfoliant",
+      "Hydrating Moisturizer",
+      "Barrier Repair Cream"
+    ],
+    "safety_guidance": [
+      "Over-exfoliating",
+      "Skipping moisturizer"
+    ],
+    "expected_results": "4-6 weeks",
+    "disclaimer": "Use exfoliating products gradually to avoid irritation."
+  },
+  {
+    "id": "SC024",
+    "skin_condition": "Sebaceous Filaments",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "overview": "Sebaceous filaments are naturally occurring structures that line the pores and help transport sebum to the skin surface.",
+    "causes": [
+      "Excess sebum",
+      "Large pores",
+      "Genetics"
+    ],
+    "symptoms": [
+      "Tiny gray dots",
+      "Visible pores",
+      "Oily nose"
+    ],
+    "recommended_ingredients": [
+      "Salicylic Acid",
+      "Niacinamide",
+      "Clay"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy oils"
+    ],
+    "recommended_products": [
+      "Foaming Cleanser",
+      "Clay Mask",
+      "Niacinamide Serum"
+    ],
+    "safety_guidance": [
+      "Aggressive squeezing",
+      "Over-cleansing"
+    ],
+    "expected_results": "4-6 weeks",
+    "disclaimer": "Sebaceous filaments are normal and cannot be permanently removed."
+  },
+  {
+    "id": "SC026",
+    "skin_condition": "Flaky Skin",
+    "skin_types": [
+      "Dry"
+    ],
+    "overview": "Flaky skin occurs when the outer layer loses moisture and sheds excessively.",
+    "causes": [
+      "Dry weather",
+      "Harsh cleansers",
+      "Skin barrier damage"
+    ],
+    "symptoms": [
+      "Flaking",
+      "Rough patches",
+      "Tight skin"
+    ],
+    "recommended_ingredients": [
+      "Ceramides",
+      "Glycerin",
+      "Hyaluronic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Strong exfoliants"
+    ],
+    "recommended_products": [
+      "Hydrating Cleanser",
+      "Barrier Cream",
+      "Moisturizer"
+    ],
+    "safety_guidance": [
+      "Hot showers",
+      "Over-cleansing"
+    ],
+    "expected_results": "2-4 weeks",
+    "disclaimer": "Persistent flaking should be evaluated by a dermatologist."
+  },
+  {
+    "id": "SC027",
+    "skin_condition": "Skin Irritation",
+    "skin_types": [
+      "Sensitive"
+    ],
+    "overview": "Skin irritation is a temporary reaction caused by allergens, harsh products, or environmental triggers.",
+    "causes": [
+      "Allergic reactions",
+      "Harsh skincare",
+      "Environmental pollutants"
+    ],
+    "symptoms": [
+      "Burning",
+      "Itching",
+      "Redness"
+    ],
+    "recommended_ingredients": [
+      "Centella Asiatica",
+      "Panthenol",
+      "Ceramides"
+    ],
+    "ingredients_to_avoid": [
+      "Fragrance",
+      "Alcohol"
+    ],
+    "recommended_products": [
+      "Gentle Cleanser",
+      "Barrier Cream"
+    ],
+    "safety_guidance": [
+      "Scrubbing",
+      "Using many actives together"
+    ],
+    "expected_results": "1-3 weeks",
+    "disclaimer": "Stop using products that worsen irritation and consult a dermatologist if symptoms persist."
+  },
+  {
+    "id": "SC028",
+    "skin_condition": "Chapped Skin",
+    "skin_types": [
+      "Dry"
+    ],
+    "overview": "Chapped skin is caused by excessive moisture loss leading to cracking and discomfort.",
+    "causes": [
+      "Cold weather",
+      "Low humidity",
+      "Frequent washing"
+    ],
+    "symptoms": [
+      "Cracks",
+      "Dryness",
+      "Tenderness"
+    ],
+    "recommended_ingredients": [
+      "Petrolatum",
+      "Ceramides",
+      "Shea Butter"
+    ],
+    "ingredients_to_avoid": [
+      "Alcohol-based products"
+    ],
+    "recommended_products": [
+      "Barrier Cream",
+      "Healing Ointment"
+    ],
+    "safety_guidance": [
+      "Hot water",
+      "Harsh soaps"
+    ],
+    "expected_results": "1-2 weeks",
+    "disclaimer": "Deep cracks or bleeding require medical evaluation."
+  },
+  {
+    "id": "SC029",
+    "skin_condition": "Sun Damage",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Sun damage results from prolonged UV exposure, leading to pigmentation, wrinkles, and skin aging.",
+    "causes": [
+      "Ultraviolet radiation",
+      "Lack of sunscreen"
+    ],
+    "symptoms": [
+      "Dark spots",
+      "Fine lines",
+      "Uneven skin tone"
+    ],
+    "recommended_ingredients": [
+      "Vitamin C",
+      "Retinol",
+      "Niacinamide"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh exfoliants after sun exposure"
+    ],
+    "recommended_products": [
+      "Vitamin C Serum",
+      "Sunscreen",
+      "Moisturizer"
+    ],
+    "safety_guidance": [
+      "Direct midday sun",
+      "Skipping sunscreen"
+    ],
+    "expected_results": "2-6 months",
+    "disclaimer": "Daily sun protection is essential to prevent further damage."
+  },
+  {
+    "id": "SC030",
+    "skin_condition": "Excess Sebum",
+    "skin_types": [
+      "Oily"
+    ],
+    "overview": "Excess sebum is the overproduction of natural skin oil, which may contribute to clogged pores and acne.",
+    "causes": [
+      "Hormonal changes",
+      "Genetics",
+      "Hot climate"
+    ],
+    "symptoms": [
+      "Greasy skin",
+      "Shiny face",
+      "Frequent breakouts"
+    ],
+    "recommended_ingredients": [
+      "Niacinamide",
+      "Salicylic Acid",
+      "Zinc PCA"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy oils"
+    ],
+    "recommended_products": [
+      "Foaming Cleanser",
+      "Oil-Free Moisturizer"
+    ],
+    "safety_guidance": [
+      "Overwashing",
+      "Heavy creams"
+    ],
+    "expected_results": "4-8 weeks",
+    "disclaimer": "Oil production varies naturally between individuals."
+  },
+  {
+    "id": "SC032",
+    "skin_condition": "Milia",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Milia are small white keratin-filled cysts that commonly appear around the eyes and cheeks.",
+    "causes": [
+      "Trapped keratin",
+      "Skin injury",
+      "Heavy skincare products"
+    ],
+    "symptoms": [
+      "Tiny white bumps",
+      "Smooth firm bumps"
+    ],
+    "recommended_ingredients": [
+      "Retinol",
+      "Salicylic Acid",
+      "Gentle Exfoliants"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy occlusive creams"
+    ],
+    "recommended_products": [
+      "Gentle Cleanser",
+      "Retinol Serum"
+    ],
+    "safety_guidance": [
+      "Picking milia",
+      "Aggressive squeezing"
+    ],
+    "expected_results": "Several weeks to months",
+    "disclaimer": "Persistent milia may require professional extraction by a dermatologist."
+  },
+  {
+    "id": "SC033",
+    "skin_condition": "Skin Barrier Damage",
+    "skin_types": [
+      "Dry",
+      "Sensitive",
+      "Combination"
+    ],
+    "overview": "Skin barrier damage occurs when the outer protective layer of the skin is weakened, leading to moisture loss and increased sensitivity.",
+    "causes": [
+      "Over-exfoliation",
+      "Harsh skincare products",
+      "Cold weather",
+      "Excessive cleansing",
+      "Sun damage"
+    ],
+    "symptoms": [
+      "Redness",
+      "Tightness",
+      "Burning sensation",
+      "Dry patches",
+      "Increased sensitivity"
+    ],
+    "recommended_ingredients": [
+      "Ceramides",
+      "Panthenol",
+      "Squalane",
+      "Glycerin",
+      "Centella Asiatica"
+    ],
+    "ingredients_to_avoid": [
+      "Strong acids",
+      "Alcohol",
+      "Physical scrubs"
+    ],
+    "recommended_products": [
+      "Gentle Cleanser",
+      "Barrier Repair Cream",
+      "Hydrating Moisturizer",
+      "Mineral Sunscreen"
+    ],
+    "safety_guidance": [
+      "Over-exfoliating",
+      "Using multiple active ingredients",
+      "Hot water"
+    ],
+    "expected_results": "2-6 weeks",
+    "disclaimer": "Persistent irritation should be evaluated by a dermatologist."
+  },
+  {
+    "id": "SC034",
+    "skin_condition": "Post-Inflammatory Erythema",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Post-inflammatory erythema refers to persistent red or pink marks left after inflammatory acne heals.",
+    "causes": [
+      "Inflammatory acne",
+      "Skin trauma",
+      "Picking pimples"
+    ],
+    "symptoms": [
+      "Red marks",
+      "Pink spots",
+      "Uneven complexion"
+    ],
+    "recommended_ingredients": [
+      "Niacinamide",
+      "Azelaic Acid",
+      "Centella Asiatica",
+      "Panthenol"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh exfoliants"
+    ],
+    "recommended_products": [
+      "Calming Serum",
+      "Barrier Cream",
+      "Sunscreen"
+    ],
+    "safety_guidance": [
+      "Picking acne",
+      "Skipping sunscreen"
+    ],
+    "expected_results": "2-6 months",
+    "disclaimer": "Healing time varies depending on skin type and severity."
+  },
+  {
+    "id": "SC035",
+    "skin_condition": "Skin Tan",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Skin tanning occurs when the skin produces more melanin in response to ultraviolet (UV) radiation.",
+    "causes": [
+      "Sun exposure",
+      "Lack of sunscreen",
+      "Outdoor activities"
+    ],
+    "symptoms": [
+      "Darkened skin",
+      "Uneven complexion",
+      "Pigmentation"
+    ],
+    "recommended_ingredients": [
+      "Vitamin C",
+      "Niacinamide",
+      "Alpha Arbutin",
+      "Licorice Extract"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh scrubs"
+    ],
+    "recommended_products": [
+      "Brightening Serum",
+      "Moisturizer",
+      "SPF 50 Sunscreen"
+    ],
+    "safety_guidance": [
+      "Direct sun exposure",
+      "Skipping sunscreen"
+    ],
+    "expected_results": "6-12 weeks",
+    "disclaimer": "Daily sunscreen use helps prevent further tanning."
+  },
+  {
+    "id": "SC036",
+    "skin_condition": "Age Spots",
+    "skin_types": [
+      "Mature",
+      "All"
+    ],
+    "overview": "Age spots are flat brown or black patches caused by long-term sun exposure and aging.",
+    "causes": [
+      "UV exposure",
+      "Aging",
+      "Melanin accumulation"
+    ],
+    "symptoms": [
+      "Brown spots",
+      "Flat pigmentation",
+      "Uneven skin tone"
+    ],
+    "recommended_ingredients": [
+      "Vitamin C",
+      "Retinol",
+      "Niacinamide",
+      "Alpha Arbutin"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh peels"
+    ],
+    "recommended_products": [
+      "Brightening Serum",
+      "Night Cream",
+      "Broad-Spectrum Sunscreen"
+    ],
+    "safety_guidance": [
+      "Sun exposure",
+      "Skipping sunscreen"
+    ],
+    "expected_results": "3-6 months",
+    "disclaimer": "Age spots may require professional treatments for significant improvement."
+  },
+  {
+    "id": "SC037",
+    "skin_condition": "Freckles",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Freckles are small brown spots caused by genetics and increased melanin production after sun exposure.",
+    "causes": [
+      "Genetics",
+      "Sun exposure"
+    ],
+    "symptoms": [
+      "Small brown spots",
+      "Facial pigmentation",
+      "More visible during summer"
+    ],
+    "recommended_ingredients": [
+      "Vitamin C",
+      "Niacinamide"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh bleaching products"
+    ],
+    "recommended_products": [
+      "Vitamin C Serum",
+      "Moisturizer",
+      "Broad-Spectrum Sunscreen"
+    ],
+    "safety_guidance": [
+      "Prolonged UV exposure"
+    ],
+    "expected_results": "Varies",
+    "disclaimer": "Freckles are a natural skin characteristic and do not require treatment unless desired for cosmetic reasons."
+  },
+  {
+    "id": "SC038",
+    "skin_condition": "Itchy Skin",
+    "skin_types": [
+      "Dry",
+      "Sensitive"
+    ],
+    "overview": "Itchy skin, also known as pruritus, is characterized by an uncomfortable sensation that triggers the urge to scratch. It is often caused by dryness, irritation, or allergic reactions.",
+    "causes": [
+      "Dry skin",
+      "Allergic reactions",
+      "Skin barrier damage",
+      "Harsh skincare products",
+      "Environmental factors"
+    ],
+    "symptoms": [
+      "Persistent itching",
+      "Redness",
+      "Dry patches",
+      "Skin irritation"
+    ],
+    "recommended_ingredients": [
+      "Ceramides",
+      "Colloidal Oatmeal",
+      "Panthenol",
+      "Aloe Vera",
+      "Glycerin"
+    ],
+    "ingredients_to_avoid": [
+      "Alcohol",
+      "Fragrance",
+      "Strong exfoliating acids"
+    ],
+    "recommended_products": [
+      "Gentle Cleanser",
+      "Barrier Repair Cream",
+      "Fragrance-Free Moisturizer"
+    ],
+    "safety_guidance": [
+      "Scratching the skin",
+      "Hot showers",
+      "Harsh soaps"
+    ],
+    "expected_results": "2-4 weeks",
+    "disclaimer": "Persistent or severe itching should be evaluated by a dermatologist."
+  },
+  {
+    "id": "SC039",
+    "skin_condition": "Peeling Skin",
+    "skin_types": [
+      "Dry",
+      "Sensitive"
+    ],
+    "overview": "Peeling skin occurs when the outermost layer of the skin sheds excessively due to dryness, irritation, or overuse of active skincare ingredients.",
+    "causes": [
+      "Over-exfoliation",
+      "Sunburn",
+      "Dry skin",
+      "Retinoid irritation",
+      "Chemical peels"
+    ],
+    "symptoms": [
+      "Flaking",
+      "Peeling patches",
+      "Tightness",
+      "Sensitivity"
+    ],
+    "recommended_ingredients": [
+      "Ceramides",
+      "Panthenol",
+      "Squalane",
+      "Hyaluronic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Strong acids",
+      "Physical scrubs",
+      "Alcohol-based products"
+    ],
+    "recommended_products": [
+      "Gentle Cleanser",
+      "Barrier Cream",
+      "Hydrating Moisturizer"
+    ],
+    "safety_guidance": [
+      "Peeling the skin manually",
+      "Using multiple exfoliants"
+    ],
+    "expected_results": "1-3 weeks",
+    "disclaimer": "Reduce active ingredients until the skin barrier recovers."
+  },
+  {
+    "id": "SC040",
+    "skin_condition": "Oily T-Zone",
+    "skin_types": [
+      "Combination",
+      "Oily"
+    ],
+    "overview": "An oily T-zone refers to excess sebum production on the forehead, nose, and chin while other facial areas remain normal or dry.",
+    "causes": [
+      "Combination skin",
+      "Hormonal changes",
+      "Genetics",
+      "Hot climate"
+    ],
+    "symptoms": [
+      "Shiny forehead",
+      "Greasy nose",
+      "Visible pores",
+      "Blackheads"
+    ],
+    "recommended_ingredients": [
+      "Niacinamide",
+      "Salicylic Acid",
+      "Zinc PCA"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy creams",
+      "Comedogenic oils"
+    ],
+    "recommended_products": [
+      "Foaming Cleanser",
+      "Gel Moisturizer",
+      "Niacinamide Serum",
+      "Clay Mask"
+    ],
+    "safety_guidance": [
+      "Overwashing",
+      "Using harsh cleansers"
+    ],
+    "expected_results": "4-8 weeks",
+    "disclaimer": "Oil production varies depending on hormones and environmental conditions."
+  },
+  {
+    "id": "SC041",
+    "skin_condition": "Large Pores",
+    "skin_types": [
+      "Oily",
+      "Combination"
+    ],
+    "overview": "Large pores become more visible due to excess sebum production, aging, reduced skin elasticity, and genetics.",
+    "causes": [
+      "Excess oil",
+      "Aging",
+      "Genetics",
+      "Sun damage"
+    ],
+    "symptoms": [
+      "Visible pores",
+      "Uneven skin texture",
+      "Oily appearance"
+    ],
+    "recommended_ingredients": [
+      "Niacinamide",
+      "Retinol",
+      "Salicylic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy oils"
+    ],
+    "recommended_products": [
+      "Foaming Cleanser",
+      "Retinol Serum",
+      "Oil-Free Moisturizer"
+    ],
+    "safety_guidance": [
+      "Sleeping with makeup",
+      "Skipping cleansing"
+    ],
+    "expected_results": "6-10 weeks",
+    "disclaimer": "Pore size cannot be permanently reduced, but proper skincare can improve their appearance."
+  },
+  {
+    "id": "SC043",
+    "skin_condition": "Blemishes",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Blemishes are visible skin imperfections such as spots, discoloration, or marks that may occur after acne or skin irritation.",
+    "causes": [
+      "Acne",
+      "Sun exposure",
+      "Skin inflammation",
+      "Hormonal changes"
+    ],
+    "symptoms": [
+      "Dark spots",
+      "Uneven skin tone",
+      "Small marks"
+    ],
+    "recommended_ingredients": [
+      "Niacinamide",
+      "Vitamin C",
+      "Azelaic Acid",
+      "Alpha Arbutin"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh scrubs",
+      "Alcohol-based products"
+    ],
+    "recommended_products": [
+      "Brightening Serum",
+      "Gentle Cleanser",
+      "Moisturizer",
+      "Sunscreen"
+    ],
+    "safety_guidance": [
+      "Picking the skin",
+      "Skipping sunscreen"
+    ],
+    "expected_results": "6-10 weeks",
+    "disclaimer": "Persistent blemishes may require professional treatment."
+  },
+  {
+    "id": "SC050",
+    "skin_condition": "Smile Lines",
+    "skin_types": [
+      "Normal",
+      "Dry",
+      "Mature"
+    ],
+    "overview": "Smile lines, also called nasolabial folds, become more visible due to aging and repeated facial movements.",
+    "causes": [
+      "Aging",
+      "Loss of collagen",
+      "Facial expressions"
+    ],
+    "symptoms": [
+      "Lines around the mouth",
+      "Visible folds",
+      "Loss of skin firmness"
+    ],
+    "recommended_ingredients": [
+      "Retinol",
+      "Peptides",
+      "Hyaluronic Acid",
+      "Vitamin C"
+    ],
+    "ingredients_to_avoid": [
+      "Drying alcohol products"
+    ],
+    "recommended_products": [
+      "Firming Serum",
+      "Moisturizer",
+      "Sunscreen"
+    ],
+    "safety_guidance": [
+      "Smoking",
+      "Skipping moisturizer"
+    ],
+    "expected_results": "3-6 months",
+    "disclaimer": "Smile lines are a normal part of facial aging and cannot be completely eliminated with skincare alone."
+  },
+  {
+    "id": "SC051",
+    "skin_condition": "Pollution Damage",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Pollution damage occurs when environmental pollutants cause oxidative stress, leading to premature aging, dullness, and skin irritation.",
+    "causes": [
+      "Air pollution",
+      "Particulate matter",
+      "UV exposure"
+    ],
+    "symptoms": [
+      "Dull complexion",
+      "Fine lines",
+      "Uneven skin tone",
+      "Skin sensitivity"
+    ],
+    "recommended_ingredients": [
+      "Antioxidants (Vitamin C, E)",
+      "Niacinamide",
+      "Hyaluronic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh cleansers",
+      "Alcohol-based products"
+    ],
+    "recommended_products": [
+      "Antioxidant Serum",
+      "Gentle Cleanser",
+      "Moisturizer",
+      "Broad-Spectrum Sunscreen"
+    ],
+    "skincare_routine": {
+      "morning": [
+        "Gentle Cleanser",
+        "Antioxidant Serum",
+        "Moisturizer",
+        "Sunscreen"
+      ],
+      "night": [
+        "Gentle Cleanser",
+        "Moisturizer"
+      ]
+    },
+    "safety_guidance": [
+      "Excessive sun exposure",
+      "Skipping sunscreen"
+    ],
+    "expected_results": "4-8 weeks",
+    "disclaimer": "Consistent use of antioxidant-rich skincare and sun protection is essential to combat pollution damage."
+  },
+  {
+    "id": "SC064",
+    "skin_condition": "Transepidermal Water Loss (TEWL)",
+    "skin_types": [
+      "Dry",
+      "Sensitive"
+    ],
+    "overview": "Transepidermal Water Loss (TEWL) refers to excessive evaporation of water through the skin, leading to dehydration and barrier dysfunction.",
+    "causes": [
+      "Damaged skin barrier",
+      "Cold weather",
+      "Harsh cleansers",
+      "Over-exfoliation"
+    ],
+    "symptoms": [
+      "Dryness",
+      "Tightness",
+      "Flaky skin",
+      "Sensitivity"
+    ],
+    "recommended_ingredients": [
+      "Ceramides",
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Squalane"
+    ],
+    "ingredients_to_avoid": [
+      "Alcohol",
+      "Strong exfoliating acids"
+    ],
+    "recommended_products": [
+      "Barrier Cream",
+      "Hydrating Serum",
+      "Gentle Cleanser"
+    ],
+    "safety_guidance": [
+      "Hot showers",
+      "Skipping moisturizer"
+    ],
+    "expected_results": "2-4 weeks",
+    "disclaimer": "Persistent barrier dysfunction should be assessed by a dermatologist."
+  },
+  {
+    "id": "SC065",
+    "skin_condition": "Blue Light Damage",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Prolonged exposure to blue light from digital devices may contribute to oxidative stress and dull-looking skin, although research is still evolving.",
+    "causes": [
+      "Extended screen exposure",
+      "Oxidative stress",
+      "Environmental factors"
+    ],
+    "symptoms": [
+      "Dull complexion",
+      "Uneven tone",
+      "Early signs of aging"
+    ],
+    "recommended_ingredients": [
+      "Vitamin C",
+      "Niacinamide",
+      "Vitamin E",
+      "Ferulic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Harsh exfoliants on irritated skin"
+    ],
+    "recommended_products": [
+      "Antioxidant Serum",
+      "Moisturizer",
+      "Broad-Spectrum Sunscreen"
+    ],
+    "safety_guidance": [
+      "Poor skincare routine",
+      "Skipping antioxidant products"
+    ],
+    "expected_results": "8-12 weeks",
+    "disclaimer": "Evidence regarding blue light's effects on skin is still emerging; UV protection remains the priority."
+  },
+  {
+    "id": "SC066",
+    "skin_condition": "Eye Bags",
+    "skin_types": [
+      "All"
+    ],
+    "overview": "Eye bags are puffy areas under the eyes caused by fluid retention, aging, or genetics.",
+    "causes": [
+      "Aging",
+      "Fluid retention",
+      "Lack of sleep",
+      "Genetics"
+    ],
+    "symptoms": [
+      "Puffiness under the eyes",
+      "Dark circles",
+      "Sagging skin"
+    ],
+    "recommended_ingredients": [
+      "Caffeine",
+      "Peptides",
+      "Hyaluronic Acid"
+    ],
+    "ingredients_to_avoid": [
+      "Heavy creams that may cause puffiness"
+    ],
+    "recommended_products": [
+      "Eye Cream with Caffeine",
+      "Cooling Eye Gel",
+      "Moisturizer"
+    ],
+    "safety_guidance": [
+      "Excessive salt intake",
+      "Lack of sleep"
+    ],
+    "expected_results": "4-8 weeks",
+    "disclaimer": "Persistent or severe eye bags may require medical evaluation for underlying conditions."
+  }
+]

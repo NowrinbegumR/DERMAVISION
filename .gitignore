@@ -2,3 +2,7 @@
 dataset/Skin-Imperfections-9/
 dataset/Skin-Tone-2/
 dataset/skin-type-1/
+.venv/
+# Python cache
+__pycache__/
+*.pyc
